@@ -1,0 +1,15 @@
+{
+ "data": {
+  "step": "card"
+ },
+ "code": 200,
+ "message": "响应成功"
+}
+
+//{
+// "data": {
+//  "url": "http://www.baidu.com"
+// },
+// "code": 200,
+// "message": "响应成功"
+//}
